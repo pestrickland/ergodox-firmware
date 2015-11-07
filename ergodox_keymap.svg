@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="472.02657"
-     inkscape:cy="442.98546"
+     inkscape:cx="129.16943"
+     inkscape:cy="1162.0327"
      inkscape:document-units="px"
-     inkscape:current-layer="g5120"
+     inkscape:current-layer="g6913"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1416"
@@ -754,16 +754,6 @@
            data-id="68"
            class="o o-68"
            style="fill:#729fcf;display:inline" />
-        <text
-           id="text3063"
-           y="266.14969"
-           x="-1234.4629"
-           class="t t-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">
-          <tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-             id="tspan4500">[Esc]</tspan>
-        </text>
         <text
            id="text3069"
            y="266.66531"
@@ -1721,6 +1711,23 @@
            x="-529.74274"
            class="t t-68"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">←</text>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline"
+           class="t t-9"
+           x="-1222.9727"
+           y="268.45242"
+           id="text4929">
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+             x="-1222.9727"
+             dy="-7"
+             id="tspan4931">¬</tspan>
+          <tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+             x="-1222.9727"
+             dy="14"
+             id="tspan4933">`</tspan>
+        </text>
       </g>
       <flowRoot
          transform="matrix(0.79425237,0,0,0.79425237,628.03129,107.63015)"
@@ -2438,16 +2445,6 @@
            data-id="68"
            class="o o-68"
            style="fill:#729fcf;display:inline" />
-        <text
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           class="t t-1"
-           x="1755.4744"
-           y="1983.5277"
-           id="text5384">
-          <tspan
-             id="tspan5386"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">[Esc]</tspan>
-        </text>
         <text
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            class="t t-8"

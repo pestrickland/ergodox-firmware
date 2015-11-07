@@ -36,7 +36,7 @@ KB_MATRIX_LAYER(
 	// unused
 	0,
 	// Left hand.
-	_esc,		_1,				_2,					_3,			_4,			_5,			1,
+	_grave,		_1,				_2,					_3,			_4,			_5,			1,
 	_tab,		_Q,				_W,					_F,			_P,			_G,			_esc,
 	_ctrlL,		_A,				_R,					_S,			_T,			_D,
 	_shiftL,	_Z,				_X,					_C,			_V,			_B,			3,
@@ -272,7 +272,7 @@ KB_MATRIX_LAYER(
 	// unused
 	NULL,
 	// Left hand.
-	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,		NULL,
+	NULL,		NULL,		NULL,		NULL,		NULL,		NULL,		NULL,
 	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,		ktrans,
 	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,
 	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,		NULL,
@@ -385,7 +385,7 @@ KB_MATRIX_LAYER(
 	// unused
 	NULL,
 	// Left hand.
-	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,		NULL,
+	NULL,		NULL,		NULL,		NULL,		NULL,		NULL,		NULL,
 	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,		ktrans,
 	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,
 	ktrans,		NULL,		NULL,		NULL,		NULL,		NULL,		ktrans,
