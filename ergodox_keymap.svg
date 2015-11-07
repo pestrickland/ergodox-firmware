@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="-48.862028"
-     inkscape:cy="1371.5906"
+     inkscape:zoom="1.4"
+     inkscape:cx="250.249"
+     inkscape:cy="1088.4885"
      inkscape:document-units="px"
-     inkscape:current-layer="g4374"
+     inkscape:current-layer="g5120"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1416"
@@ -5924,11 +5924,11 @@
            transform="matrix(0.90630779,-0.42261826,0.42261826,0.90630779,0,0)"
            id="text4680">[PgDn]</text>
         <text
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#cc0000;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#cc0000"
            class="t t-47"
-           x="575.2312"
-           y="948.97937"
-           id="text4682">[Power]</text>
+           x="561.13354"
+           y="948.76257"
+           id="text4682">[Play/Pause]</text>
         <text
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            class="t t-46"
@@ -6046,7 +6046,7 @@
            y="1047.1268"
            id="text4788">←</text>
         <text
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#cc0000;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold;"
            class="t t-67"
            x="576.1687"
            y="1103.5852"
@@ -6088,7 +6088,7 @@
            y="1085.3369"
            id="text4826">[~L2]</text>
         <text
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold;fill:#000000;"
            class="t t-72"
            x="567.18884"
            y="1154.988"
@@ -6117,6 +6117,18 @@
            x="374.53574"
            y="1146.5679"
            id="text4836">←</text>
+        <text
+           id="text5019"
+           y="1052.118"
+           x="565.89136"
+           class="t t-67"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000;">[Vol Down]</text>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000;"
+           class="t t-67"
+           x="574.79761"
+           y="1000.1908"
+           id="text5021">[Vol Up]</text>
       </g>
       <flowRoot
          xml:space="preserve"

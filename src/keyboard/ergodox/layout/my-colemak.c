@@ -73,10 +73,10 @@ KB_MATRIX_LAYER(
 													0,			0,			0,
 
 	// Right hand.
-	_F12,		_F6,		_F7,		_F8,		_F9,		_F10,		_power,
-	0,			0,			_equal,		_equal,		_dash,		_dash,		0,
-				_arrowL,	_arrowD,	_arrowU,	_arrowR,	0,			0,
-	0,			_6,			_7,			_8,			_9,			_0,			_mute,
+	_F12,		_F6,		_F7,		_F8,		_F9,		_F10,		MEDIAKEY_PLAY_PAUSE,
+	0,			0,			_equal,		_equal,		_dash,		_dash,		MEDIAKEY_AUDIO_VOL_UP,
+				_arrowL,	_arrowD,	_arrowU,	_arrowR,	0,			MEDIAKEY_AUDIO_VOL_DOWN,
+	0,			_6,			_7,			_8,			_9,			_0,			MEDIAKEY_AUDIO_MUTE,
 							0,			0,			0,			0,			0,
 
 	0,			0,
@@ -181,6 +181,9 @@ KB_MATRIX_LAYER(
 #define  slpunum  &kbfun_layer_push_numpad
 #define  slponum  &kbfun_layer_pop_numpad
 
+// Media keys
+#define  mprrel	  &kbfun_mediakey_press_release
+
 // PRESS ----------------------------------------------------------------------
 const void_funptr_t PROGMEM _kb_layout_press[KB_LAYERS][KB_ROWS][KB_COLUMNS] = {
 // LAYER 0: Colemak.
@@ -227,9 +230,9 @@ KB_MATRIX_LAYER(
 
 	// Right hand.
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
-	ktrans,		ktrans,		kprrel,		sshprre,	kprrel,		sshprre,	kprrel,
-				kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
-	ktrans,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	kprrel,
+	ktrans,		ktrans,		kprrel,		sshprre,	kprrel,		sshprre,	mprrel,
+				kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		mprrel,
+	ktrans,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	mprrel,
 							ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
 
 	ktrans,		ktrans,
@@ -340,9 +343,9 @@ KB_MATRIX_LAYER(
 
 	// Right hand.
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
-	ktrans,		kprrel,		kprrel,		sshprre,	kprrel,		sshprre,	kprrel,
-				kprrel,		kprrel,		kprrel,		kprrel,		ktrans,		kprrel,
-	ktrans,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	kprrel,
+	ktrans,		kprrel,		kprrel,		sshprre,	kprrel,		sshprre,	mprrel,
+				kprrel,		kprrel,		kprrel,		kprrel,		ktrans,		mprrel,
+	ktrans,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	mprrel,
 							ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
 
 	ktrans,		ktrans,
