@@ -198,9 +198,9 @@
 #define _stop               KEY_Stop
 #define _undo               KEY_Undo
 // ---
-#define _mute               KEY_Mute
-#define _volumeU            KEY_VolumeUp
-#define _volumeD            KEY_VolumeDown
+// #define _mute               KEY_Mute
+// #define _volumeU            KEY_VolumeUp
+// #define _volumeD            KEY_VolumeDown
 // ---
 #define _altErase           KEY_AlternateErase
 // ---
@@ -304,6 +304,14 @@
 #define _memMul_kp          KEYPAD_MemoryMultiply
 #define _memDiv_kp          KEYPAD_MemoryDivide
 
+// Media keys
+#define _playpause_m        MEDIAKEY_PLAY_PAUSE
+#define _stop_m             MEDIAKEY_STOP
+#define _prev_m             MEDIAKEY_PREV_TRACK
+#define _next_m             MEDIAKEY_NEXT_TRACK
+#define _mute_m             MEDIAKEY_AUDIO_MUTE
+#define _volumeU_m          MEDIAKEY_AUDIO_VOL_UP
+#define _volumeD_m          MEDIAKEY_AUDIO_VOL_DOWN
 
 // ----------------------------------------------------------------------------
 // ----------------------------------------------------------------------------
