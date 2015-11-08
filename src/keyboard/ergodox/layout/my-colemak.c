@@ -229,7 +229,7 @@ KB_MATRIX_LAYER(
 													ktrans,		ktrans,		ktrans,
 
 	// Right hand.
-	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
+	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		mprrel,
 	ktrans,		NULL,		kprrel,		sshprre,	kprrel,		sshprre,	mprrel,
 				kprrel,		kprrel,		kprrel,		kprrel,		NULL,		mprrel,
 	NULL,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	mprrel,
@@ -342,7 +342,7 @@ KB_MATRIX_LAYER(
 													ktrans,		ktrans,		ktrans,
 
 	// Right hand.
-	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
+	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		mprrel,
 	ktrans,		NULL,		kprrel,		sshprre,	kprrel,		sshprre,	mprrel,
 				kprrel,		kprrel,		kprrel,		kprrel,		NULL,		mprrel,
 	NULL,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	mprrel,
