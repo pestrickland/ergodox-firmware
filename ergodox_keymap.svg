@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="129.16943"
-     inkscape:cy="1162.0327"
+     inkscape:zoom="2.8"
+     inkscape:cx="48.789311"
+     inkscape:cy="996.21406"
      inkscape:document-units="px"
-     inkscape:current-layer="g6913"
+     inkscape:current-layer="g4374"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1416"
@@ -5473,12 +5473,6 @@
            id="text4718">F12</text>
         <text
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           class="t t-53"
-           x="531.3515"
-           y="995.58533"
-           id="text4726">_</text>
-        <text
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            class="t t-52"
            x="480.45261"
            y="991.7179"
@@ -5594,15 +5588,27 @@
         <text
            id="text5019"
            y="1052.118"
-           x="565.89136"
+           x="510.44522"
            class="t t-67"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000;">[Vol Down]</text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000">[Vol Dn]</text>
         <text
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000"
            class="t t-67"
-           x="574.79761"
+           x="510.50381"
            y="1000.1908"
            id="text5021">[Vol Up]</text>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000"
+           class="t t-67"
+           x="568.18823"
+           y="1052.118"
+           id="text4928">[Previous]</text>
+        <text
+           id="text4930"
+           y="1000.4076"
+           x="579.63745"
+           class="t t-67"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline;fill:#000000">[Next]</text>
       </g>
       <flowRoot
          xml:space="preserve"
