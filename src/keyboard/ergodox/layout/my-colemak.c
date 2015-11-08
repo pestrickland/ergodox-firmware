@@ -39,14 +39,14 @@ KB_MATRIX_LAYER(
 	_grave,		_1,				_2,					_3,			_4,			_5,			1,
 	_tab,		_Q,				_W,					_F,			_P,			_G,			_esc,
 	_ctrlL,		_A,				_R,					_S,			_T,			_D,
-	_shiftL,	_Z,				_X,					_C,			_V,			_B,			3,
+	_shiftL,	_Z,				_X,					_C,			_V,			_B,			2,
 	_guiL,		_pound_nonUS,	_backslash_nonUS,	_altL,		1,
 																			_ctrlL,		_altL,
 																0,			0,			_home,
 																_bs,		_del,		_end,
 
 	// Right hand.
-	3,			_6,			_7,			_8,			_9,			_0,			_dash,
+	2,			_6,			_7,			_8,			_9,			_0,			_dash,
 	_esc,		_J,			_L,			_U,			_Y,			_semicolon,	_bracketL,
 				_H,			_N,			_E,			_I,			_O,			_quote,
 	1,			_K,			_M,			_comma,		_period,	_slash,		_shiftR,
@@ -84,34 +84,7 @@ KB_MATRIX_LAYER(
 	0,			0,			0
 ),
 
-// LAYER 2: QWERTY.
-KB_MATRIX_LAYER(
-	// unused
-	0,
-	// Left hand.
-	0,			_1,			_2,			_3,			_4,			_5,			2,
-	0,			_Q,			_W,			_E,			_R,			_T,			0,
-	0,			_A,			_S,			_D,			_F,			_G,
-	0,			_Z,			_X,			_C,			_V,			_B,			0,
-	0,			0,			0,			0,			0,
-
-																0,			0,
-													0,			0,			0,
-													0,			0,			0,
-
-	// Right hand.
-	2,			_6,			_7,			_8,			_9,			_0,			2,
-	3,			_Y,			_U,			_I,			_O,			_P,			0,
-				_H,			_J,			_K,			_L,			_semicolon,	0,
-	0,			_N,			_M,			_comma,		_period,	_slash,		0,
-							0,			0,			0,			0,			0,
-
-	0,			0,
-	0,			0,			0,
-	0,			0,			0
-),
-
-// LAYER 3: Numpad.
+// LAYER 2: Numpad.
 KB_MATRIX_LAYER(
 	// unused
 	0,
@@ -240,34 +213,7 @@ KB_MATRIX_LAYER(
 	ktrans,		ktrans,		ktrans
 ),
 
-// LAYER 2: QWERTY.
-KB_MATRIX_LAYER(
-	// unused
-	NULL,
-	// Left hand.
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		lpop2,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
-
-																ktrans,		ktrans,
-													ktrans,		ktrans,		ktrans,
-													ktrans,		ktrans,		ktrans,
-
-	// Right hand.
-	lpop2,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		lpop2,
-	lpush3,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-				kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-							ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
-
-	ktrans,		ktrans,
-	ktrans,		ktrans,		ktrans,
-	ktrans,		ktrans,		ktrans
-),
-
-// LAYER 3: Numpad.
+// LAYER 2: Numpad.
 KB_MATRIX_LAYER(
 	// unused
 	NULL,
@@ -353,34 +299,7 @@ KB_MATRIX_LAYER(
 	ktrans,		ktrans,		ktrans
 ),
 
-// LAYER 2: QWERTY.
-KB_MATRIX_LAYER(
-	// unused
-	NULL,
-	// Left hand.
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		NULL,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
-
-													ktrans,		ktrans,
-													ktrans,		ktrans,		ktrans,
-													ktrans,		ktrans,		ktrans,
-
-	// Right hand.
-	NULL,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	lpop3,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-				kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-	ktrans,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		ktrans,
-							ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
-
-	ktrans,		ktrans,
-	ktrans,		ktrans,		ktrans,
-	ktrans,		ktrans,		ktrans
-),
-
-// LAYER 3: Numpad.
+// LAYER 2: Numpad.
 KB_MATRIX_LAYER(
 	// unused
 	NULL,
