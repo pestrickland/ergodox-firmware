@@ -74,8 +74,8 @@ KB_MATRIX_LAYER(
 
 	// Right hand.
 	_F12,		_F6,		_F7,		_F8,		_F9,		_F10,		_playpause_m,
-	0,			0,			_equal,		_equal,		_dash,		_volumeU_m,	_next_m,
-				_arrowL,	_arrowD,	_arrowU,	_arrowR,	_volumeD_m,	_prev_m,
+	0,			0,			_equal,		_arrowU,	_dash,		_volumeU_m,	_next_m,
+				0,			_arrowL,	_arrowD,	_arrowR,	_volumeD_m,	_prev_m,
 	0,			_6,			_7,			_8,			_9,			_0,			_mute_m,
 							0,			0,			0,			0,			0,
 
@@ -203,8 +203,8 @@ KB_MATRIX_LAYER(
 
 	// Right hand.
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		mprrel,
-	ktrans,		NULL,		kprrel,		sshprre,	kprrel,		mprrel,		mprrel,
-				kprrel,		kprrel,		kprrel,		kprrel,		mprrel,		mprrel,
+	ktrans,		NULL,		kprrel,		kprrel,		kprrel,		mprrel,		mprrel,
+				NULL,		kprrel,		kprrel,		kprrel,		mprrel,		mprrel,
 	NULL,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	mprrel,
 							ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
 
@@ -289,8 +289,8 @@ KB_MATRIX_LAYER(
 
 	// Right hand.
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		mprrel,
-	ktrans,		NULL,		kprrel,		sshprre,	kprrel,		mprrel,		mprrel,
-				kprrel,		kprrel,		kprrel,		kprrel,		mprrel,		mprrel,
+	ktrans,		NULL,		kprrel,		kprrel,		kprrel,		mprrel,		mprrel,
+				NULL,		kprrel,		kprrel,		kprrel,		mprrel,		mprrel,
 	NULL,		sshprre,	sshprre,	sshprre,	sshprre,	sshprre,	mprrel,
 							ktrans,		ktrans,		ktrans,		ktrans,		ktrans,
 
