@@ -36,8 +36,8 @@ KB_MATRIX_LAYER(
 	// unused
 	0,
 	// Left hand.
-	_grave,		_1,				_2,					_3,			_4,			_5,			1,
-	_tab,		_Q,				_W,					_F,			_P,			_G,			_esc,
+	_grave,		_1,				_2,					_3,			_4,			_5,			_esc,
+	_tab,		_Q,				_W,					_F,			_P,			_G,			1,
 	_ctrlL,		_A,				_R,					_S,			_T,			_D,
 	_shiftL,	_Z,				_X,					_C,			_V,			_B,			2,
 	_guiL,		_pound_nonUS,	_backslash_nonUS,	_altL,		1,
@@ -164,8 +164,8 @@ KB_MATRIX_LAYER(
 	// unused
 	NULL,
 	// Left hand.
-	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		lpush1,
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
+	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		lpush1,
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		lpush3,
 	kprrel,		kprrel,		kprrel,		kprrel,		lpush1,
@@ -251,8 +251,8 @@ KB_MATRIX_LAYER(
 	// unused
 	NULL,
 	// Left hand.
-	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		NULL,
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
+	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		NULL,
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,
 	kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		kprrel,		lpop3,
 	kprrel,		kprrel,		kprrel,		kprrel,		lpop1,
