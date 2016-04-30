@@ -38,9 +38,9 @@ KB_MATRIX_LAYER(
 	// Left hand.
 	_grave,		_1,				_2,					_3,			_4,			_5,			_esc,
 	_tab,		_Q,				_W,					_F,			_P,			_G,			1,
-	_ctrlL,		_A,				_R,					_S,			_T,			_D,
+	_guiL,		_A,				_R,					_S,			_T,			_D,
 	_shiftL,	_Z,				_X,					_C,			_V,			_B,			2,
-	_guiL,		_pound_nonUS,	_backslash_nonUS,	_altL,		1,
+	_ctrlL,		_pound_nonUS,	_backslash_nonUS,	_altL,		1,
 																			_ctrlL,		_altL,
 																0,			0,			_home,
 																_bs,		_del,		_end,

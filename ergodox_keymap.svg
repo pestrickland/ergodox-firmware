@@ -22,11 +22,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5700001"
-     inkscape:cx="526.18105"
-     inkscape:cy="372.04721"
+     inkscape:zoom="1.8172645"
+     inkscape:cx="476.26354"
+     inkscape:cy="357.38442"
      inkscape:document-units="px"
-     inkscape:current-layer="page2"
+     inkscape:current-layer="g6913"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1416"
@@ -879,7 +879,7 @@
                class="t t-15"
                x="-1237.8936"
                y="368.85474"
-               id="text3187">[LCtrl]</text>
+               id="text3187">[LGui]</text>
             <text
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline"
                class="t t-16"
@@ -993,7 +993,7 @@
                class="t t-28"
                x="-1224.1793"
                y="471.72473"
-               id="text3305">[LGui]</text>
+               id="text3305">[LCtrl]</text>
             <text
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline"
                class="t t-29"
@@ -2519,7 +2519,7 @@
                y="1052.118"
                x="-333.61502"
                class="t t-15"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline">[LCtrl]</text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline">[LGui]</text>
             <text
                id="text4548"
                y="1052.7919"
@@ -2567,7 +2567,7 @@
                y="1154.988"
                x="-319.90082"
                class="t t-28"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline">[LGui]</text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline">[LCtrl]</text>
             <text
                id="text4588"
                y="1157.6306"
@@ -3684,7 +3684,7 @@
            class="t t-15"
            x="1752.0437"
            y="2086.2327"
-           id="text5426">[LCtrl]</text>
+           id="text5426">[LGui]</text>
         <text
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline"
            class="t t-21"
@@ -3696,7 +3696,7 @@
            class="t t-28"
            x="1765.7579"
            y="2189.1028"
-           id="text5466">[LGui]</text>
+           id="text5466">[LCtrl]</text>
         <text
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';display:inline"
            class="t t-29"
